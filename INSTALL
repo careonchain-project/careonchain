@@ -1,0 +1,9 @@
+Building Careonchain
+
+See doc/readme-qt.rst for instructions on building Careonchain-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Careonchain.
+
+See doc/build-*.txt for instructions on building careonchaind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Careonchain.
