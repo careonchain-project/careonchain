@@ -20,8 +20,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        “CAREONchain”
-            VALUE "FileDescription",    “CAREONchain-Qt (OSS GUI client for CAREONchain)”
+            VALUE "CompanyName",        "CAREONchain"
+            VALUE "FileDescription",    "CAREONchain-Qt (OSS GUI client for CAREONchain)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "careonchain-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
